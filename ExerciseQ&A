@@ -1,1 +1,11 @@
 Exercise Questions & Answers
+
+
+questions = [
+P = Points  
+Points = [100, 200, 300, 400, 500, 600] 
+
+##Exercise questions
+[How many minutes/hours should an individual workout every week?]
+
+answers = [
